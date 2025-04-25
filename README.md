@@ -60,6 +60,8 @@ In partnership with a leading Philippine bank, we designed and evaluated a centr
 - **Best Single Model:** Propensity (XGBoost) achieved highest overall hit rates.  
 - **Ensemble Performance:** Greedy weight tuning yielded marginal improvements over the top individual model, highlighting complementary strengths across pillars 
 
+![image](https://github.com/user-attachments/assets/789560c4-40ac-4ada-b0aa-105eca42bfcc)
+
 ---
 
 ## 🛠 Tech Stack
